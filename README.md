@@ -6,4 +6,4 @@ I’m studying Computer Science at the University of Waterloo. I like building t
 - 🛠️ I build with TypeScript, React Native, Python, Flutter, and C++.
 - 🌱 Learning more about robot navigation and turning ideas into useful software.
 - 🐈 I have two cats and built a dress-up app inspired by Cher’s digital wardrobe in *Clueless*.
-- ☕ My Starbucks order: a brown sugar oat shaken espresso—for both the caffeine and the taste.
+- ☕ My Starbucks order: a brown sugar oat shaken espresso—for both the caffeine and the taste (you should totally give it a try :))
